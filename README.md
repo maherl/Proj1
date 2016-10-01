@@ -1,5 +1,11 @@
-##Author
+##READ Author
 Written by **Lydia Maher** for Stats 159, a UC Berkeley class.
+
+##Overview
+This is a reflection of a user using commonly used "data science" tools for the first time.
+The tools used in this project include:
+Git, Github, pandoc, Make GNU and Markdown.
+Intended more as a sort of 'blog post'.
 
 ##Project Structure
 In the project1 folder, all of the project 'staples' are housed.
