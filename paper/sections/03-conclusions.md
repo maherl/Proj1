@@ -9,3 +9,5 @@ I would say I now have a strong grasp of basic directory commands, branching etc
 
 I'm sure Makefile has far more capabilities of which I am yet unaware though.
 I would be interested in learning more about this tool in future.
+In particular, I would like to learn how to better manipulate the files for the HTML output.
+At the moment, the images in my HTML document are far too big and it is difficult to read.
