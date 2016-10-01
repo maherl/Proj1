@@ -1,3 +1,4 @@
+![](https://raw.githubusercontent.com/ucb-stat159/stat159-fall-2016/master/projects/proj01/images/stat159-logo.png)
 The main motivation behind this project is learning how to effectively use the tools mentioned in the Abstract.
 I will explain in simple terms what all these programs are and how I used them to complete this project.
 Although this project is undertaken at a very individual level, it will be written so as to allow for wider usage.
